@@ -7,4 +7,5 @@
 ### 2. Filename: PasswordLogic.pdf
 - ### PasswordLogic.pdf is a visualization of the logic required to check to see if a password entered is correct
 
-###
+### 3. Filename: Python.png
+- ### Python.png shows code being used to find the sum of two numbers in Python and output the result with text.
