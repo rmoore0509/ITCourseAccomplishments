@@ -11,4 +11,4 @@
 - ### Python.png shows code being used to find the sum of two numbers in Python and output the result with text.
 
 ### 4. Filename: RachelMooreFlowerClass.pdf
-- ### RachelMooreFlowerClass.pdf is a class diagram designed to represent the possible attributes and methods of a Flower
+- ### RachelMooreFlowerClass.pdf is an OOP class diagram designed to represent the possible attributes and methods of a Flower
