@@ -20,4 +20,4 @@
 - ### Flower.py is a text file with the code used to create the program seen in PythonOOP.png.
 
 ### 7. Filename: NetworkDesign.png
-- ### NetworkDesign.png is a network diagram of an infrastructure topology which features two computers, a printer, a router, a wireless access point, a smart phone, a laptop, and a switch. I chose to diagram an infrastructure topology because all of the wired devices connect to a central wiring point, making the system resilient to disruptions as long as the switch remains functional. 
+- ### NetworkDesign.png is a network diagram of a star topology which features two computers, a printer, a router, and a switch. I chose to diagram a star topology because all of the wired devices connect to a central wiring point, making the system resilient to disruptions from individual devices as long as the switch remains functional. 
