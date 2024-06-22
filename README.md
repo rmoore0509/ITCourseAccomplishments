@@ -21,3 +21,6 @@
 
 ### 7. Filename: NetworkDesign.png
 - ### NetworkDesign.png is a network diagram of a star topology which features two computers, a printer, a router, and a switch. I chose to diagram a star topology because all of the wired devices connect to a central wiring point, making the system resilient to disruptions from individual devices as long as the switch remains functional. 
+
+### 8. Filename: SQLQuery.png 
+- ### SQLQuery.png demonstrates using SQL for data retrieval to filter a product database and only display the products that have a price under $100. 
