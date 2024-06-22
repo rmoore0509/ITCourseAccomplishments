@@ -24,3 +24,6 @@
 
 ### 8. Filename: SQLQuery.png 
 - ### SQLQuery.png demonstrates using SQL for data retrieval to filter a product database and only display the products that have a price under $100. 
+
+### 9. Filename: MyHTML.png
+- ### MyHTML.png is a screenshot of the code used to create a web page for the fictitious company referenced in course accomplishment #1, Happy Home Decor.
